@@ -1,2 +1,2 @@
-# Rainy
-A Simple Weather App that display live weather data and motivational quotes.
+
+Plan events with your friends in realtime..
